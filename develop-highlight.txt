@@ -32,4 +32,6 @@
 # Forums
 @1/stackoverflow.com/
 @1/stackexchange.com/
+@1/superuser.com/
+@1/serverfault.com/
 @1/(news).ycombinator.com/
