@@ -1,0 +1,31 @@
+# Search highlight ruleset for developers
+# use with https://github.com/iorate/ublacklist
+# source at https://github.com/danisztls/ublacklist-rules
+
+# VCS
+@1/github.(com|io)/
+@1/gitlab.com/
+
+# Web
+@1/developer.mozilla.org/
+@1/(dash|developers).cloudflare.com/
+@1/(cloud|developers).google.com/
+@1/web.dev/
+
+# Languages
+@1/python.org/
+@1/pypi.org/
+@1/go.dev/
+@1/npmjs.com/
+@1/rust-lang.org/
+@1/crates.io/
+
+# Linux
+@1/archlinux.org/
+@1/gnome.org/
+@1/kde.org/
+
+# Forums
+@1/stackoverflow.com/
+@1/stackexchange.com/
+@1/(news).ycombinator.com/

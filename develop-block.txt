@@ -1,0 +1,6 @@
+# Search block ruleset for developers
+# use with https://github.com/iorate/ublacklist
+# source at https://github.com/danisztls/ublacklist-rules
+
+/w3schools.(com|in)/
+/geeksforgeeks.org/

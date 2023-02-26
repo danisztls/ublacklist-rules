@@ -1,0 +1,11 @@
+# Search block ruleset for general
+# use with https://github.com/iorate/ublacklist
+# source at https://github.com/danisztls/ublacklist-rules
+
+# Spam
+/pinterest.com/
+/quora.com/
+
+# News
+/cnn.com/
+/foxnews.com/

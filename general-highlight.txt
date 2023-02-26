@@ -1,0 +1,14 @@
+# Search highlight ruleset for general
+# use with https://github.com/iorate/ublacklist
+# source at https://github.com/danisztls/ublacklist-rules
+
+# Wiki 
+@1/wikipedia.org/
+@1/wikimedia.org/
+
+# Forums
+@1/reddit.com/
+
+# News
+@1/apnews.com/
+@1/reuters.com/
