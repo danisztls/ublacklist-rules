@@ -4,3 +4,5 @@
 
 /w3schools.(com|in)/
 /geeksforgeeks.org/
+/coursehero.com/
+/tutorialrepublic.com/

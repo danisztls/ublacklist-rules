@@ -7,10 +7,14 @@
 @1/gitlab.com/
 
 # Web
-@1/developer.mozilla.org/
+@1/w3.org/
+@1/mozilla.org/
 @1/(dash|developers).cloudflare.com/
 @1/(cloud|developers).google.com/
 @1/web.dev/
+@1/webkit.org/
+@1/smashingmagzine.com/
+@1/css-tricks.com/
 
 # Languages
 @1/python.org/
