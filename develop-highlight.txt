@@ -25,6 +25,8 @@
 @1/crates.io/
 
 # Linux
+@1/freedesktop.org/
+@1/man7.org/
 @1/archlinux.org/
 @1/gnome.org/
 @1/kde.org/
